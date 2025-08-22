@@ -14,7 +14,7 @@ You can generate mails and use it to mass signin a website, it saves output in "
 
 # Screenshot
 
-<img src="https://user-images.githubusercontent.com/46316908/136668700-2e4d6f4d-9b4c-4d4d-8eae-d6556449fc24.png" width="100%"></img>
+<img src="Screenshot_20250822-175402.Termux.png" width="100%"></img>
 
 ## Installing and requirements
 
