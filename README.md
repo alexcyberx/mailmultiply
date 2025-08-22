@@ -49,7 +49,7 @@ $ ./mailmultiply.sh
 
 ## Contact
 
-[Gmail](mailto:sand:alexcyberx42@gmail.com) </br>
+[Gmail](mailto:send: alexcyberx42@gmail.com) </br>
 [Instagram](https://instagram.com/alex_cyberx) </br>
 ## Disclaimer
 
